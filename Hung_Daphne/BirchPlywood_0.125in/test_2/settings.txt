@@ -1,0 +1,26 @@
+Cutting Settings
+
+| Color | Power | Speed | Freq |
+--------------------------------
+| Test6 |  100  | 3.00    | 6000  |
+| Test7 |  100  | 2.00    | 6000  |
+| Test8 |  93   | 1.00    | 6000  |
+
+Engraving Settings
+
+N/A
+
+----
+
+Cutting Results
+
+| Color  | Cut through? | Scorch marks on front? | Scorch marks on back? |
+--------------------------------------------------------------------------
+| Test6 | No            | YES                    | No                    |
+| Test7 | YES           | YES                    | YES                   |
+| Test8 | YES           | YES                    | YES                   |
+
+
+Engraving Results
+
+N/A                                                    
